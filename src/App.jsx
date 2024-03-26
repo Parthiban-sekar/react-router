@@ -17,7 +17,7 @@ function App() {
 <BrowserRouter>
 <NavBar/>
 <Routes>
-  <Route path='/uiux' element={<UiUx/>}></Route>
+  <Route path='/' element={<UiUx/>}></Route>
   <Route path='/dataScience' element={<DataScience/>} ></Route>
   <Route path='/cyberSecurity' element={<CyberSecurity/>} ></Route>
   <Route path='/fullstackdevelopment' element={<FullStackDevelopment/>} ></Route>

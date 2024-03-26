@@ -28,7 +28,7 @@ function NavBar({ele}) {
             <Link className="nav-link active" to="/cybersecurity">Cyber Security</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link active" to='/uiux'>UIUX</Link>
+            <Link className="nav-link active" to='/'>UIUX</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link active " to='/career'>Career</Link>
